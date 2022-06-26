@@ -24,7 +24,7 @@ Don't worry about being pixel perfect and don't worry if your code doesn't match
 
 * Open `level-1/index.html` && `level-1/step-2.css` && `level-1/step-2.jpg`.
 * Locate the element with the class of `content-left`.
-  * Add padding of 20 pixels on the top, left, right, and bottom.
+  * Add padding of 20 pixels on the top, -left, right, and bottom.
 * Locate the element with the class of `header`.
   * Add padding of 20 pixels on the top, left, right, and bottom.
 * Locate the element with the class of `profile-image-container`.
